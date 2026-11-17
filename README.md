@@ -10,4 +10,4 @@ Formulário de inscrição para a Diretoria Executiva da OctoBit Jr. – Gestão
 ## Publicação
 Projeto preparado para publicação via GitHub Pages, utilizando a branch `main` e a pasta raiz (`/`). 
 
-A publicação não está habilitada neste repositório por conta das restrições da conta Enterprise, vou publicar na minha pessoal.
+A publicação não está habilitada neste repositório por conta das restrições -- O repo deve ser deixado público  
